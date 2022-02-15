@@ -65,7 +65,7 @@ h1 {
 }
 
 #connect {
-  font-family: "Poppins" monospace;
+  font-family: "Poppins", monospace;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
