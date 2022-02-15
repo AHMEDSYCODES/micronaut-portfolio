@@ -2,6 +2,9 @@
 
 body {
   background-color: bisque;
+  margin-left: 12px;
+  width: ;
+  height: ;
 }
 
 .container {
@@ -44,7 +47,13 @@ nav {
 }
 
 h1 {
-  background-color: whitesmoke;
+  /*background-color: whitesmoke;
+  */
+  color: #172b4d;
+  font-weight: 700;
+  line-height: 52px;
+  font-size: 40px;
+  margin-left: 12px;
 }
 
 ul {
