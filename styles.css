@@ -71,6 +71,15 @@ h1 {
   width: 327px;
 }
 
+#connect {
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #7f8cff;
+  margin-left: 24px;
+}
+
 ul {
   border: solid;
 }
