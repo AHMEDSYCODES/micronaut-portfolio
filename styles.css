@@ -47,8 +47,6 @@ nav {
 }
 
 h1 {
-  /*background-color: whitesmoke;
-  */
   height: 150px;
   color: #172b4d;
   font-weight: 700;
@@ -92,6 +90,10 @@ ul {
 }
 
 li {
-    background-color: white;
-    color: #505f79;
+  background-color: white;
+  color: #505f79;
+}
+
+.button:hover {
+  background-color:#6070ff;
 }
