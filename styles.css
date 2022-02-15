@@ -1,0 +1,31 @@
+/*styles to form visual understanding*/
+
+body {
+    background-color: bisque;
+}
+
+nav {
+    background-color: darkgray;
+}
+
+#logo {
+    background-color: ivory;
+    border: solid;
+}
+
+#burger {
+    background-color: lavenderblush;
+    border: dotted;
+}
+
+h1 {
+    background-color: whitesmoke;
+}
+
+ul {
+    border: solid;
+}
+
+li {
+    border: double;
+}
