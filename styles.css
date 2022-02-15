@@ -1,39 +1,51 @@
 /*styles to form visual understanding*/
 
 body {
-    background-color: bisque;
+  background-color: bisque;
 }
 
 .container {
-    background-color: white;
-    height: 718px;
-    width: 375px;
+  background-color: white;
+  height: 718px;
+  width: 375px;
 }
 
 nav {
-    background-color: darkgray;
-    display: flex;
-    
+  background-color: darkgray;
+  display: flex;
+  justify-content: space-between;
 }
 
 #logo {
-    background-color: ivory;
-    border: solid;
+  background-color: ivory;
+  /*
+  border: solid;
+  */
+  font-family: "Poppins", monospace;
+  color: #6070ff;
+  width: 76px;
+  height: 20px;
+  text-align: center;
+  size: 18px;
+  margin-left: 12px;
+  margin-top: 10px;
+  line-height: 20px;
+  font-weight: 700;
 }
 
 #burger {
-    background-color: lavenderblush;
-    border: dotted;
+  background-color: lavenderblush;
+  border: dotted;
 }
 
 h1 {
-    background-color: whitesmoke;
+  background-color: whitesmoke;
 }
 
 ul {
-    border: solid;
+  border: solid;
 }
 
 li {
-    border: double;
+  border: double;
 }
