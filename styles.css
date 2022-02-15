@@ -34,8 +34,13 @@ nav {
 }
 
 #burger {
-  background-color: lavenderblush;
+  /*background-color: lavenderblush;
   border: dotted;
+  */
+  width: 16px;
+  height: 10px;
+  margin-right: 12px;
+  margin-top: 15px;
 }
 
 h1 {
