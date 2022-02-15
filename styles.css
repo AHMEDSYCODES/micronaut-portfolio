@@ -4,8 +4,16 @@ body {
     background-color: bisque;
 }
 
+.container {
+    background-color: white;
+    height: 718px;
+    width: 375px;
+}
+
 nav {
     background-color: darkgray;
+    display: flex;
+    
 }
 
 #logo {
