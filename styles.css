@@ -1,7 +1,7 @@
 /*styles to form visual understanding*/
 
 body {
-  background-color: bisque;
+  background-color: #e5e5e5;
   width: ;
   height: ;
 }
@@ -12,6 +12,7 @@ body {
   width: 375px;
   display: flex;
   flex-direction: column;
+  background-image: url("portfolio-images/header-shapes mobile.png");
 }
 
 nav {
@@ -20,6 +21,7 @@ nav {
   */
   display: flex;
   justify-content: space-between;
+  margin-top: 58px;
 }
 
 #logo {
@@ -89,6 +91,7 @@ ul {
   margin-left: 24px;
   align-items: center;
   padding-inline-start: 0%;
+  margin-bottom: 136px;
 }
 
 li {
