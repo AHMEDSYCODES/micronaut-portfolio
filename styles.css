@@ -81,9 +81,17 @@ h1 {
 }
 
 ul {
-  border: solid;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 170.17px;
+  height: 20px;
+  margin-left: 24px;
+  align-items: center;
+  padding-inline-start: 0%;
 }
 
 li {
-  border: double;
+    background-color: white;
+    color: #505f79;
 }
