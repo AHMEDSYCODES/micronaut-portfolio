@@ -13,14 +13,6 @@ body {
   border-bottom-left-radius: 60px;
 }
 
-/*
-#intro-page {
-  background-image: url("portfolio-images/header-shapes mobile.png");
-  display: flex;
-  flex-direction: column;
-  height: 593px;
-} */
- 
 nav {
   display: flex;
   justify-content: space-between;
