@@ -45,6 +45,7 @@ nav {
 h1 {
   height: 150px;
   color: #172b4d;
+  font-family: "Poppins", monospace;
   font-weight: 700;
   line-height: 52px;
   font-size: 40px;
