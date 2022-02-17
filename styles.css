@@ -142,3 +142,21 @@ li {
   height: 1263px;
   width: 375px;
 }
+
+.project-title {
+  font-family: "Poppins", monospace;
+  margin-top: 12px;
+  font-size: 32px;
+}
+
+.project-image {
+  margin-left: 16px;
+  height: 220px;
+  width: 295px;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
