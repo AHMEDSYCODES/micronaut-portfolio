@@ -1,3 +1,10 @@
+/*to do:
+set grip row gap
+set grid column gap
+*/
+
+
+
 body {
   background-color: #e5e5e5;
   border: dotted;
@@ -124,6 +131,14 @@ li {
 
 
 .project {
+  display: flex;
+  flex-direction: column;
 
 }
 
+#about {
+  display: flex;
+  flex-direction: column;
+  height: 1263px;
+  width: 375px;
+}
