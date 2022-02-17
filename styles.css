@@ -114,7 +114,6 @@ li {
 }
 
 #project-1 {
-  background-color: antiquewhite;
 }
 
 #project-2 {
@@ -159,7 +158,6 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  border: dotted;
   width: 236px;
   height: 32px;
   margin-left: 16px;
@@ -202,4 +200,48 @@ line-height: 24px;
 text-align: left;
 margin-left: 16px;
 margin-right: 16px;
+}
+
+.labels {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 16px;
+  height: 24px;
+  width: 203px;
+  font-family: "Poppins", monospace;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+
+}
+
+.html {
+  height: 24px;
+  width: 53px;
+  border-radius: 8px;
+  text-align: center;
+  background-color: #ebebff;
+  color: #6070FF;
+
+}
+
+.css {
+  height: 24px;
+  width: 45px;
+  border-radius: 8px;
+  text-align: center;
+  background-color: #ebebff;
+  color: #6070FF;
+
+}
+
+.js {
+  background-color: #ebebff;
+  border-radius: 8px;
+  height: 24px;
+  width: 89px;
+  border-radius: 8px;
+  text-align: center;
+  color: #6070FF;
+
 }
