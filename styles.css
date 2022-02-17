@@ -3,6 +3,9 @@ body {
   border: dotted;
   width: 375px;
   height: 4631px;
+  display: grid;
+  grid-template-columns: 4631px;
+  grid-template-rows: 718px 2788px 1263px;
 }
 
 .container {
@@ -96,6 +99,11 @@ li {
 
 #projects {
   border: solid;
+  width: 375px;
+  height: 2788px;
+  display: grid;
+  grid-template-columns: 327px;
+  grid-template-rows: 596px 596px 596px 596px;
 }
 
 #project-1 {
