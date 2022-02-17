@@ -243,5 +243,20 @@ margin-right: 16px;
   border-radius: 8px;
   text-align: center;
   color: #6070FF;
+}
 
+.button {
+  height: 48px;
+  width: 124px;
+  border-radius: 16px;
+  background-color: #ffffff;
+  font-family: "Poppins", monospace;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  margin-left: 16px;
+  color: #396df2;
+  border-color: #396df2;
 }
