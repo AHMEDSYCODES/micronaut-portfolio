@@ -1,5 +1,8 @@
 body {
   background-color: #e5e5e5;
+  border: dotted;
+  width: 375px;
+  height: 4631px;
 }
 
 .container {
@@ -95,7 +98,24 @@ li {
   border: solid;
 }
 
+#project-1 {
+  background-color: antiquewhite;
+}
+
+#project-2 {
+  background-color:darkgray;
+}
+
+#project-3 {
+  background-color: darksalmon;
+}
+
+#project-4 {
+  background-color:khaki
+}
+
 
 .project {
 
 }
+
