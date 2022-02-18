@@ -352,9 +352,6 @@ h6 {
   color: black;
 }
 
-.arrow-left {
-}
-
 #skill-images {
   list-style: none;
 }
@@ -384,7 +381,6 @@ h6 {
   height: 12px;
   width: 6px;
   margin-right: 66px;
-
 }
 
 #frameworks {
