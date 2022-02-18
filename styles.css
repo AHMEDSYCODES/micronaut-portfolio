@@ -86,21 +86,7 @@ li {
   background-color: #2230d2;
 }
 
-.project-button:hover {
-  background-color: #6070ff;
-}
 
-.project-button:visited {
-  background-color: #2230d2;
-}
-
-#resume:hover {
-  background-color: #6070ff;
-}
-
-#resume:visited {
-  background-color: #2230d2;
-}
 
 #projects {
   width: 375px;
@@ -280,6 +266,14 @@ li {
   padding: 12px;
 }
 
+.project-button:hover {
+  background-color: #6070ff;
+}
+
+.project-button:visited {
+  background-color: #2230d2;
+}
+
 h6 {
   height: 101px;
   width: 327px;
@@ -320,6 +314,14 @@ h6 {
   background-color: white;
   border-color: #6070ff;
   margin-left: 24px;
+}
+
+#resume:hover {
+  background-color: #6070ff;
+}
+
+#resume:visited {
+  background-color: #2230d2;
 }
 
 #skill-list {
