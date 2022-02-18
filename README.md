@@ -1,56 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Micronaut Portfolio
 
-> Description the project.
+> This project is created as part of the Microverse curriculum practice. The purpuse of the project is to practice
+- using HTML&CSS Linters
+- parsing a Figma design
+- understanding flex and grid displays
+- using images, media and backgrounds
+- creating a personal portfolio
+- while presenting a professional repository
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
+## Screenshot
 
-[Live Demo Link](https://livedemo.com)
+<img src="portfolio-images/portfolio-introduction.png" alt="screenshot">
+
+<img src="portfolio-images/portfolio-project.png" alt="screenshot">
+
+<img src="portfolio-images/portfolio-about.png" alt="screenshot">
+
+
+[Live Demo Link](preview.png)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-### Setup
+- go to the directory that you want to clone the repository in.
 
-### Install
+- right click and choose Git Bash here.
 
-### Usage
+- type "git clone git clone https://github.com/bengigo/micronaut-portfolio".
 
-### Run tests
-
-### Deployment
+- Go to the dist folder and open `index.html`
 
 
+## 👤 **Author**
 
-## Authors
+- GitHub: [@githubhandle](https://github.com/bengigo)
+- Twitter: [@twitterhandle](https://twitter.com/bengi_gb)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bengi-g-03b883199/)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -62,11 +60,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
