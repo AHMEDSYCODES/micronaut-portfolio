@@ -156,6 +156,7 @@ li {
   font-family: "Poppins", monospace;
   margin-top: 12px;
   margin-left: 16px;
+  margin-bottom: 12px;
   font-size: 32px;
 }
 
@@ -172,7 +173,7 @@ li {
   align-items: baseline;
   width: 236px;
   height: 32px;
-  margin-left: ;
+  margin-left: 16px;
 }
 
 .canopy{
