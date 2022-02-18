@@ -6,7 +6,7 @@ set grid column gap
 
 
 body {
-  background-color:coral;
+  background-color:#f7f7f9;
   width: 375px;
   height: 4631px;
   display: grid;
@@ -110,8 +110,7 @@ li {
   grid-row: 2 / span 1;
   grid-template-columns: 375px;
   grid-template-rows: 718px 718px 718px 718px;
-  background-color: #dfe1e6;
-  border: solid
+  background-color: ##f7f7f9;
 }
 
 #project-1 {
@@ -160,6 +159,7 @@ li {
   width: 375px;
   grid-column: 1 / span 1;
   grid-row: 3 / span 1;
+  margin-top: 114px;
 }
 
 .project-title {
