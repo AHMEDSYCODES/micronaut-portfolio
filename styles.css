@@ -321,20 +321,23 @@ margin-left: 24px;
 
 #skill-list {
   list-style: none;
+  padding-left: 0;
 }
 
 .skill {
   height: 72px;
-  width: 327px;
+  width: 263px;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  margin-left: 36px;
 }
 
 #languages {
   list-style: none;
   margin-top: 36px;
   padding-left: 0;
+  margin-left: 24px;
 }
 
 .language-image {
@@ -343,10 +346,14 @@ margin-left: 24px;
   left: 12px;
   top: 12px;
   border-radius: 8px;
+  margin-left: 36px;
 }
 
-.arrow {
+.arrow-down {
   height: 6px;
   width: 12px;
-
 }
+
+.arrow-left [
+
+]
