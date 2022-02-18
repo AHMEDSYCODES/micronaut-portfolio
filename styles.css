@@ -73,9 +73,6 @@ h1 {
   padding-inline-start: 0%;
 }
 
-li {
-}
-
 .button:hover {
   background-color: #6070ff;
 }
@@ -83,8 +80,6 @@ li {
 .button:visited {
   background-color: #2230d2;
 }
-
-
 
 #projects {
   width: 375px;
@@ -399,5 +394,4 @@ h6 {
 #skills {
   border-bottom: 1px solid #dfe1e6;
   width: 327px;
-
 }
