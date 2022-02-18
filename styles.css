@@ -95,6 +95,14 @@ li {
   background-color: #6070ff;
 }
 
+.project-button:hover {
+  background-color: #6070ff;
+}
+
+#resume:hover {
+  background-color: #6070ff;
+}
+
 #projects {
   width: 375px;
   height: 2788px;
