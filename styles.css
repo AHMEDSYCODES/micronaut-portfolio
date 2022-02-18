@@ -7,7 +7,6 @@ set grid column gap
 
 body {
   background-color: #e5e5e5;
-  border: dotted;
   width: 375px;
   height: 4631px;
   display: grid;
@@ -145,10 +144,14 @@ li {
 }
 
 #about {
+  background-color: white;
+  border: solid;
   display: flex;
   flex-direction: column;
   height: 1263px;
   width: 375px;
+  grid-column: 1 / span 1;
+  grid-row: 3 / span 1;
 }
 
 .project-title {
@@ -276,4 +279,24 @@ height: 76px;
   padding: 12px;
   text-align: center;
   
+}
+
+h6 {
+  height: 101px;
+  width: 327px;
+  font-family: "Poppins", monospace;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  margin-top: 114px;
+  margin-left: 24px;
+}
+
+.introduction {
+font-family: "Poppins", monospace;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+margin-left: 24px;
 }
