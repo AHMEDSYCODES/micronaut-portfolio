@@ -1,7 +1,5 @@
-
-
 body {
-  background-color:#f7f7f9;
+  background-color: #f7f7f9;
   width: 375px;
   height: 4631px;
   display: grid;
@@ -105,7 +103,7 @@ li {
   grid-row: 2 / span 1;
   grid-template-columns: 375px;
   grid-template-rows: 718px 718px 718px 718px;
-  background-color: ##f7f7f9;
+  background-color: #f7f7f9;
 }
 
 #project-1 {
@@ -123,7 +121,6 @@ li {
   grid-column: 1 / span 1;
   grid-row: 3 / span 1;
   margin-top: 88px;
-
 }
 
 #project-4 {
@@ -132,7 +129,6 @@ li {
   margin-top: 88px;
   margin-bottom: 114px;
 }
-
 
 .project {
   margin-top: 114px;
@@ -181,7 +177,7 @@ li {
   margin-left: 16px;
 }
 
-.canopy{
+.canopy {
   font-family: "Poppins", monospace;
   font-size: 13px;
   font-weight: 600;
@@ -206,15 +202,15 @@ li {
 }
 
 .description {
-font-family: "Poppins", monospace;
-font-size: 15px;
-font-weight: 400;
-line-height: 24px;
-margin-top: 20px;
-margin-left: 24px;
-margin-right: 16px;
-width: 295px;
-height: 76px;
+  font-family: "Poppins", monospace;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 20px;
+  margin-left: 24px;
+  margin-right: 16px;
+  width: 295px;
+  height: 76px;
 }
 
 .labels {
@@ -227,7 +223,7 @@ height: 76px;
   font-weight: 500;
   letter-spacing: 0.03em;
   list-style: none;
-  padding: 0px;
+  padding: 0.1px;
   margin-left: 16px;
   margin-top: 12px;
 }
@@ -238,8 +234,7 @@ height: 76px;
   border-radius: 8px;
   text-align: center;
   background-color: #ebebff;
-  color: #6070FF;
-
+  color: #6070ff;
 }
 
 .css {
@@ -248,8 +243,7 @@ height: 76px;
   border-radius: 8px;
   text-align: center;
   background-color: #ebebff;
-  color: #6070FF;
-
+  color: #6070ff;
 }
 
 .js {
@@ -257,9 +251,8 @@ height: 76px;
   border-radius: 8px;
   height: 24px;
   width: 89px;
-  border-radius: 8px;
   text-align: center;
-  color: #6070FF;
+  color: #6070ff;
 }
 
 .project-button {
