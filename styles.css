@@ -130,7 +130,6 @@ li {
 }
 
 #project-4 {
-  background-color:khaki;
   grid-column: 1 / span 1;
   grid-row: 4 / span 1;
 }
