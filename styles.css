@@ -331,6 +331,11 @@ margin-left: 24px;
   justify-content: space-between;
   align-items: baseline;
   margin-left: 36px;
+  font-family: "Poppins", monospace;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  color: black;
 }
 
 #languages {
@@ -354,6 +359,15 @@ margin-left: 24px;
   width: 12px;
 }
 
-.arrow-left [
+.arrow-left {
+  height: 12px;
+  width: 6px;
+}
 
-]
+hr {
+  height: 1px;
+  width: 327px;
+  top: 71px;
+  border-radius: 0px;
+  color: #dfe1e6;
+}
