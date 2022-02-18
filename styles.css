@@ -1,10 +1,10 @@
 body {
   background-color: #f7f7f9;
   width: 375px;
-  height: 4631px;
   display: grid;
+  row-gap: 114px;
   grid-template-columns: 4631px;
-  grid-template-rows: 718px 2788px 1263px;
+  grid-template-rows: 718px 2472px 1263px;
 }
 
 .container {
@@ -75,6 +75,7 @@ h1 {
 
 .button:hover {
   background-color: #6070ff;
+  color: white;
 }
 
 .button:visited {
@@ -83,13 +84,14 @@ h1 {
 
 #projects {
   width: 375px;
-  height: 2788px;
+  height: 2288px;
   display: grid;
   grid-column: 1 / span 1;
   grid-row: 2 / span 1;
   grid-template-columns: 375px;
-  grid-template-rows: 718px 718px 718px 718px;
+  grid-template-rows: 552px 552px 552px 552px;
   background-color: #f7f7f9;
+  row-gap: 88px;
 }
 
 #project-1 {
@@ -100,24 +102,19 @@ h1 {
 #project-2 {
   grid-column: 1 / span 1;
   grid-row: 2 / span 1;
-  margin-top: 88px;
 }
 
 #project-3 {
   grid-column: 1 / span 1;
   grid-row: 3 / span 1;
-  margin-top: 88px;
 }
 
 #project-4 {
   grid-column: 1 / span 1;
   grid-row: 4 / span 1;
-  margin-top: 88px;
-  margin-bottom: 114px;
 }
 
 .project {
-  margin-top: 114px;
   background-color: white;
   border-radius: 16px;
   width: 327px;
@@ -136,7 +133,6 @@ h1 {
   width: 375px;
   grid-column: 1 / span 1;
   grid-row: 3 / span 1;
-  margin-top: 114px;
 }
 
 .project-title {
@@ -144,7 +140,9 @@ h1 {
   margin-top: 12px;
   margin-left: 16px;
   margin-bottom: 12px;
+  line-height: 44px
   font-size: 32px;
+  color: #172b4d;
 }
 
 .project-image {
@@ -169,6 +167,9 @@ h1 {
   font-weight: 600;
   line-height: 16px;
   color: #344563;
+  margin-top: 8px;
+  margin-bottom: 8px;
+
 }
 
 .back {
@@ -193,8 +194,9 @@ h1 {
   font-weight: 400;
   line-height: 24px;
   margin-top: 20px;
-  margin-left: 24px;
+  margin-left: 16px;
   margin-right: 16px;
+  margin-bottom: 0.1px;
   width: 295px;
   height: 76px;
   color: #344563;
@@ -213,6 +215,7 @@ h1 {
   padding: 0.1px;
   margin-left: 16px;
   margin-top: 12px;
+  margin-bottom: 24px;
 }
 
 .html {
@@ -262,13 +265,14 @@ h1 {
 
 .project-button:hover {
   background-color: #6070ff;
+  color: white;
 }
 
 .project-button:visited {
   background-color: #2230d2;
 }
 
-h6 {
+h2 {
   height: 101px;
   width: 327px;
   font-family: "Poppins", monospace;
@@ -313,6 +317,7 @@ h6 {
 
 #resume:hover {
   background-color: #6070ff;
+  color: white;
 }
 
 #resume:visited {
