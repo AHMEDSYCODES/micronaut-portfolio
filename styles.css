@@ -91,7 +91,6 @@ h1 {
   margin-left: 24px;
   align-items: center;
   padding-inline-start: 0%;
-  margin-bottom: 136px;
 }
 
 li {
@@ -300,4 +299,26 @@ font-weight: 400;
 line-height: 24px;
 text-align: left;
 margin-left: 24px;
+}
+
+#resume {
+  height: 48px;
+  width: 162px;
+  border-radius: 8px;
+  padding: 12px;
+  font-family: "Poppins", monospace;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #396df2;
+  text-align: center;
+  background-color: white;
+  border-color:#6070ff;
+  margin-left: 24px;
+}
+
+#skill-list {
+  list-style: none;
 }
