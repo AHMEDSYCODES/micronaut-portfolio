@@ -143,14 +143,14 @@ li {
 
 .project-title {
   font-family: "Poppins", monospace;
-  margin-top: 12px;
-  margin-left: 40px;
+  margin-top: ;
+  margin-left: ;
   font-size: 32px;
 }
 
 .project-image {
-  margin-top: 114px;
-  margin-left: 40px;
+  margin-top: ;
+  margin-left: ;
   height: 220px;
   width: 295px;
 }
@@ -161,7 +161,7 @@ li {
   align-items: baseline;
   width: 236px;
   height: 32px;
-  margin-left: 40px;
+  margin-left: ;
 }
 
 .canopy{
@@ -170,7 +170,6 @@ li {
   font-weight: 600;
   line-height: 16px;
   color: #344563;
-
 }
 
 .back {
@@ -179,8 +178,6 @@ li {
   font-weight: 600;
   line-height: 16px;
   color: #7a869a;
-
-  
 }
 
 .year {
@@ -188,9 +185,7 @@ li {
   font-size: 13px;
   font-weight: 600;
   line-height: 16px;
-  color: #7a869a;
-
-  
+  color: #7a869a; 
 }
 
 .description {
@@ -199,8 +194,8 @@ font-size: 15px;
 font-weight: 400;
 line-height: 24px;
 text-align: left;
-margin-left: 40px;
-margin-right: 40px;
+margin-left: ;
+margin-right: ;
 }
 
 .labels {
@@ -256,8 +251,8 @@ margin-right: 40px;
   line-height: 24px;
   letter-spacing: 0.03em;
   text-align: center;
-  margin-left: 40px;
+  margin-left: ;
   color: #396df2;
   border-color: #396df2;
-  margin-top: 24px;
+  margin-top: ;
 }
