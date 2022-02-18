@@ -66,13 +66,14 @@ h1 {
   font-weight: 400;
   line-height: 24px;
   margin-left: 24px;
+  margin-right: 24px;
+  margin-top: 12px;
   color: #344563;
-  margin-right: 12px;
   height: 146px;
   width: 327px;
 }
 
-#connect {
+.connect {
   font-family: "Poppins", monospace;
   font-size: 16px;
   font-weight: 500;
@@ -81,7 +82,7 @@ h1 {
   margin-left: 24px;
 }
 
-#icons {
+.icons {
   list-style-type: none;
   display: flex;
   justify-content: space-between;
@@ -110,7 +111,6 @@ li {
   grid-template-rows: 718px 718px 718px 718px;
   margin-top: 88px;
   margin-left: 24px;
-  background-color: #e5e5e5;
 }
 
 #project-1 {
@@ -145,7 +145,7 @@ li {
 
 #about {
   background-color: white;
-  border: solid;
+  border-top-right-radius: 60px;
   display: flex;
   flex-direction: column;
   height: 1263px;
@@ -208,7 +208,7 @@ font-size: 15px;
 font-weight: 400;
 line-height: 24px;
 margin-top: 20px;
-margin-left: 16px;
+margin-left: 24px;
 margin-right: 16px;
 width: 295px;
 height: 76px;
@@ -290,6 +290,7 @@ h6 {
   line-height: 52px;
   margin-top: 114px;
   margin-left: 24px;
+  margin-bottom: 0;
 }
 
 .introduction {
