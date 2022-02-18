@@ -323,6 +323,14 @@ margin-left: 24px;
   list-style: none;
 }
 
+.skill {
+  height: 72px;
+  width: 327px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
 #languages {
   list-style: none;
   margin-top: 36px;
@@ -335,4 +343,10 @@ margin-left: 24px;
   left: 12px;
   top: 12px;
   border-radius: 8px;
+}
+
+.arrow {
+  height: 6px;
+  width: 12px;
+
 }
