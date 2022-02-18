@@ -109,7 +109,7 @@ li {
   display: grid;
   grid-template-columns: 375px;
   grid-template-rows: 718px 718px 718px 718px;
-  margin-top: 114px;
+  margin-top: 88px;
   margin-left: 24px;
   background-color: #e5e5e5;
 }
@@ -120,7 +120,6 @@ li {
 }
 
 #project-2 {
-  background-color:yellowgreen;
   grid-column: 1 / span 1;
   grid-row: 2 / span 1;
 }
