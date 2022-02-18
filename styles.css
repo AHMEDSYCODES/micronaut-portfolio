@@ -104,16 +104,14 @@ li {
 }
 
 #projects {
-  border: solid;
   width: 327px;
-  height: 552px;
+  height: 2788px;
   display: grid;
   grid-template-columns: 375px;
   grid-template-rows: 718px 718px 718px 718px;
-  border-radius: 16px;
   margin-top: 114px;
   margin-left: 24px;
-  background-color: white;
+  background-color: #e5e5e5;
 }
 
 #project-1 {
@@ -141,6 +139,10 @@ li {
 
 
 .project {
+  background-color: white;
+  border-radius: 16px;
+  width: 327px;
+  height: 552px;
   display: flex;
   flex-direction: column;
 }
@@ -224,6 +226,7 @@ height: 76px;
   list-style: none;
   padding: 0px;
   margin-left: 16px;
+  margin-top: 12px;
 }
 
 .html {
@@ -271,4 +274,8 @@ height: 76px;
   color: #396df2;
   border-color: #396df2;
   margin-top: ;
+  margin-left: 16px;
+  margin-bottom: 28px;
+  padding: 12px;
+  
 }
