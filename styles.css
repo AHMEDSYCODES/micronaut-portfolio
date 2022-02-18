@@ -105,27 +105,38 @@ li {
 
 #projects {
   border: solid;
-  width: 375px;
-  height: 2788px;
+  width: 327px;
+  height: 552px;
   display: grid;
   grid-template-columns: 375px;
   grid-template-rows: 718px 718px 718px 718px;
+  border-radius: 16px;
+  margin-top: 114px;
+  margin-left: 24px;
+  background-color: white;
 }
 
 #project-1 {
-  background-color: violet;
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 1;
 }
 
 #project-2 {
   background-color:yellowgreen;
+  grid-column: 1 / span 1;
+  grid-row: 2 / span 1;
 }
 
 #project-3 {
   background-color: darksalmon;
+  grid-column: 1 / span 1;
+  grid-row: 3 / span 1;
 }
 
 #project-4 {
-  background-color:khaki
+  background-color:khaki;
+  grid-column: 1 / span 1;
+  grid-row: 4 / span 1;
 }
 
 
