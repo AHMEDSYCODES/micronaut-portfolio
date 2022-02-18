@@ -206,14 +206,13 @@ margin-right: 40px;
 .labels {
   display: flex;
   justify-content: space-between;
-  margin-left: 16px;
   height: 24px;
   width: 203px;
   font-family: "Poppins", monospace;
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 0.03em;
-
+  list-style: none;
 }
 
 .html {
