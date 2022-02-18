@@ -25,7 +25,6 @@
 <img src="portfolio-images/portfolio-about.png" alt="screenshot">
 
 
-[Live Demo Link](preview.png)
 
 
 ## Getting Started
