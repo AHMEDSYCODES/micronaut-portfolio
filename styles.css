@@ -13,7 +13,7 @@ body {
   width: 375px;
   display: flex;
   flex-direction: column;
-  background-image: url("portfolio-images/header-shapes mobile.png");
+  background-image: url('portfolio-images/header-shapes mobile.png');
   background-position: center bottom;
   border-bottom-left-radius: 60px;
 }
@@ -25,7 +25,7 @@ nav {
 }
 
 #logo {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   color: #6070ff;
   text-decoration: none;
   height: 20px;
@@ -45,7 +45,7 @@ nav {
 
 h1 {
   color: #172b4d;
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-weight: 700;
   line-height: 52px;
   font-size: 40px;
@@ -54,7 +54,7 @@ h1 {
 }
 
 .connect {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -136,7 +136,7 @@ h1 {
 }
 
 .project-title {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   margin-top: 12px;
   margin-left: 16px;
   margin-bottom: 12px;
@@ -162,7 +162,7 @@ h1 {
 }
 
 .canopy {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 13px;
   font-weight: 600;
   line-height: 16px;
@@ -172,7 +172,7 @@ h1 {
 }
 
 .back {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 13px;
   font-weight: 600;
   line-height: 16px;
@@ -180,7 +180,7 @@ h1 {
 }
 
 .year {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 13px;
   font-weight: 600;
   line-height: 16px;
@@ -188,7 +188,7 @@ h1 {
 }
 
 .description {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 15px;
   font-weight: 400;
   line-height: 24px;
@@ -202,12 +202,9 @@ h1 {
 }
 
 .labels {
-  /*display: flex;
-  justify-content: space-between;*/
-  
   height: 24px;
   width: 203px;
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 0.03em;
@@ -255,7 +252,7 @@ h1 {
   width: 124px;
   border-radius: 8px;
   background-color: #fff;
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -280,7 +277,7 @@ h1 {
 h2 {
   height: 101px;
   width: 327px;
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 40px;
   font-weight: 700;
   line-height: 52px;
@@ -291,7 +288,7 @@ h2 {
 }
 
 .introduction {
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -308,7 +305,7 @@ h2 {
   width: 162px;
   border-radius: 8px;
   padding: 12px;
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -341,7 +338,7 @@ h2 {
   justify-content: space-between;
   align-items: baseline;
   margin-left: 36px;
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
@@ -355,7 +352,7 @@ h2 {
   justify-content: space-between;
   align-items: baseline;
   margin-left: 36px;
-  font-family: "Poppins", monospace;
+  font-family: 'Poppins', monospace;
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
