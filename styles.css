@@ -202,8 +202,9 @@ h1 {
 }
 
 .labels {
-  display: flex;
-  justify-content: space-between;
+  /*display: flex;
+  justify-content: space-between;*/
+  
   height: 24px;
   width: 203px;
   font-family: "Poppins", monospace;
@@ -218,24 +219,29 @@ h1 {
 }
 
 .html {
+  float: left;
   height: 24px;
   width: 53px;
   border-radius: 8px;
   text-align: center;
   background-color: #ebebff;
   color: #6070ff;
+  margin-right: 8px;
 }
 
 .css {
+  float: left;
   height: 24px;
   width: 45px;
   border-radius: 8px;
   text-align: center;
   background-color: #ebebff;
   color: #6070ff;
+  margin-right: 8px;
 }
 
 .js {
+  float: left;
   background-color: #ebebff;
   border-radius: 8px;
   height: 24px;
