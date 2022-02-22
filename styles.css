@@ -416,6 +416,11 @@ h2 {
 #contact-title {
   color: white;
   background-color: antiquewhite;
+  font-family: 'Poppins', monospace;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+
 }
 
 #contact-intro {
