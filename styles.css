@@ -424,8 +424,16 @@ h2 {
 }
 
 #contact-intro {
-  color: white;
+  color: #ebebff;
   background-color: darkgray;
+  font-family: 'Poppins', monospace;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  margin-top: 12px;
+  margin-left: 24px;
+  margin-right: 24px;
+  width: 327px;
 }
 
 form {
