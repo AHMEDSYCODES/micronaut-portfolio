@@ -403,7 +403,23 @@ h2 {
 #contact-page {
   border: solid;
   width: 375px;
-  height: ;
+  height: 779px;
   background-color: #6070ff;
-  font-family: ;
+  background-image: url(/portfolio-images/header-shapes\ mobile.png) ;
+  font-family: 'Poppins', monospace;
+  border-top-left-radius: 80px;
+  background-position: 100%;
+}
+
+#contact-title {
+  color: white;
+}
+
+#contact-intro {
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
 }
