@@ -455,22 +455,24 @@ form {
   height: 48px;
   width: 327px;
   border-radius: 8px;
+  margin-bottom: 20px;
 }
 
 #email-field {
   height: 48px;
   width: 327px;
   border-radius: 8px;
+  margin-bottom: 18px;
 }
 
 #user-msg {
   height: 170px;
   width: 327px;
   border-radius: 8px;
-
+  /*margin-bottom: 22px;*/
 }
 
-/*to create a visiul understanding*/
+/*to create a visiul understanding
 #form-li-1 {
   background-color: darksalmon;
 }
@@ -480,6 +482,9 @@ form {
 #form-li-3 {
   background-color: mediumpurple;
 }
-#form-button {
-  background-color: white;
+*/
+#form-ul {
+  background-color: wheat;
+  list-style: none;
+  padding-left: 0px;
 }
