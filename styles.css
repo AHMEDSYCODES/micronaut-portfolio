@@ -415,13 +415,16 @@ h2 {
 
 #contact-title {
   color: white;
+  background-color: antiquewhite;
 }
 
 #contact-intro {
   color: white;
+  background-color: darkgray;
 }
 
 form {
+  border: dotted;
   display: flex;
   flex-direction: column;
   align-items: center;
