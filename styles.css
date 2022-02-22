@@ -411,6 +411,8 @@ h2 {
   /* needs to be revisited
   background-position: 100%;
   */
+  display: flex;
+  flex-direction: column;
 }
 
 #contact-title {
