@@ -4,7 +4,7 @@ body {
   display: grid;
   row-gap: 114px;
   grid-template-columns: 4631px;
-  grid-template-rows: 718px 2472px 1263px;
+  grid-template-rows: 718px 2472px 1263px, 779px;
 }
 
 .container {
@@ -400,7 +400,7 @@ h2 {
   width: 327px;
 }
 
-#contact-page {
+#contact {
   border: solid;
   width: 375px;
   height: ;
