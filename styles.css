@@ -406,6 +406,9 @@ h2 {
   height: 779px;
   background-color: #6070ff;
   background-image: url("portfolio-images/contact-form-background.png");
+  background-size: 265px 709.17px;
+  background-position: top 21px right;
+  background-repeat: no-repeat;
   font-family: 'Poppins', monospace;
   border-top-left-radius: 80px;
   /* needs to be revisited
