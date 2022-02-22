@@ -417,7 +417,6 @@ h2 {
 
 #contact-title {
   color: white;
-  background-color: antiquewhite;
   font-family: 'Poppins', monospace;
   font-size: 40px;
   line-height: 52px;
@@ -427,7 +426,6 @@ h2 {
 
 #contact-intro {
   color: #ebebff;
-  background-color: darkgray;
   font-family: 'Poppins', monospace;
   font-size: 20px;
   line-height: 28px;
@@ -446,7 +444,6 @@ form {
 }
 #form-button {
   width: 140px;
-  left: 24px;
   color: #6070ff;
   border: 8px;
   height: 48px;
@@ -482,19 +479,8 @@ form {
   /*margin-bottom: 22px;*/
 }
 
-/*to create a visiul understanding
-#form-li-1 {
-  background-color: darksalmon;
-}
-#form-li-2 {
-  background-color: goldenrod;
-}
-#form-li-3 {
-  background-color: mediumpurple;
-}
-*/
+
 #form-ul {
-  background-color: wheat;
   list-style: none;
   padding-left: 0px;
 }
