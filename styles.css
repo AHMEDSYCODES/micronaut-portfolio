@@ -435,3 +435,17 @@ button {
   color: #6070ff;
   border: 8px;
 }
+
+/*to create a visiul understanding*/
+#form-li-1 {
+  background-color: darksalmon;
+}
+#form-li-2 {
+  background-color: goldenrod;
+}
+#form-li-3 {
+  background-color: mediumpurple;
+}
+#form-button {
+  background-color: white;
+}
