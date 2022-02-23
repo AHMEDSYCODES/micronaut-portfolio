@@ -473,12 +473,6 @@ form {
   margin-bottom: 18px;
 }
 
-#user-msg {
-  height: 170px;
-  width: 327px;
-  border-radius: 8px;
-  /*margin-bottom: 22px;*/
-}
 
 
 #form-ul {
@@ -503,6 +497,13 @@ textarea {
   line-height: 24px;
   text-align: left;
   color: #b3bac5;
+  height: 140px;
+  width: 273px;
+  border-radius: 8px;
+  padding-top: 15px;
+  padding-left: 16px;
+  padding-bottom: 15px;
+  padding-right: 38px;
 }
 
 #form-button:hover {
